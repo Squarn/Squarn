@@ -1,5 +1,3 @@
-#### Name: Brooklen
-#### Student at: SNHU
-#### Studying: Computer Science
+# Brooklen
 
-#### Competency: Python
+Student at SNHU, studying computer science. Competency is mostly Python.
